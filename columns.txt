@@ -1,1 +1,1 @@
-empl_id,empl_name
+employee_id,employee_name
