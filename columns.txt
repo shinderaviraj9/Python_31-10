@@ -1,3 +1,2 @@
 employee_id, employee_name,empname
 
-name1=raviraj
