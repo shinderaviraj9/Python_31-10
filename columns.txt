@@ -1,2 +1,2 @@
-employee_id, employee_name,ename
+employee_id, employee_name,empname
 
